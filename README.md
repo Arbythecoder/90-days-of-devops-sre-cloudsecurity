@@ -24,7 +24,7 @@ Welcome to my 90-day journey through DevOps, SRE, and Cloud Security. This repos
 
   ## Upcoming Topics
 
-- [Day 18](day-18/README.md) - Monitoring Setup with Prometheus and Grafana
+- [Day 18](day-18/README.md) -  Centralized ELK Setup
 - [Day 19](day-19/README.md) - Implementing ELK Stack and Jaeger for Logging and Tracing
 - [Day 20](day-20/README.md) - Configuring Alerting Rules in Prometheus
 
