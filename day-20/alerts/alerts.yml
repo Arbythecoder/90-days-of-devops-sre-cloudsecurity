@@ -1,0 +1,12 @@
+groups:
+  - name: example_group
+    rules:
+      - alert: ServerDown
+        expr: up == 0
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Server is down"
+          description: "The server has been down for 5 minutes."
+      # ... (Add more rules as needed) ...
